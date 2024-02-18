@@ -1,2 +1,2 @@
-# daily-weather-analysis-Model
-weather analysis project model
+# Slash-Mark-Basic-Projects
+My Projects
